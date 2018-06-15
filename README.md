@@ -9,8 +9,8 @@
 >exe下载链接 [百度云](https://pan.baidu.com/s/1HtYTRJpFavXSUi00IPU45A) 访问密码: tgi7。
 >安装后打开软件登录即可。
 
->方法2 - (macOS 10.11+/Linux Browser e.g. Chrome)：
->本插件基于Tampermonkey，请先安装 Tampermonkey。
+>方法2 - (macOS 10.11+/Linux Browser e.g. Chrome)  
+>本插件基于Tampermonkey，请先安装 Tampermonkey。  
 >安装完毕后 [点击这里](https://semoz.github.io/AutoClean/AutoClean.user.js) 安装脚本。
 >重新打开浏览器，登录网站即可
 
