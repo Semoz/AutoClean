@@ -1,20 +1,24 @@
 # 自动清除反作弊弹框插件 - AutoClean
 
-##说明
+#说明
 还在为计时系统烦恼么？来~带你飞！
-某大学在线学习系统挂时插件，可稳定运行10000+秒以上
+浙江工业大学网络在线学习平台挂时插件，可稳定运行10000+秒以上
 
-##使用　
+#使用　
 >方法1 - (Windows 7/8/10)
->exe下载链接 [百度云](https://pan.baidu.com/s/1HtYTRJpFavXSUi00IPU45A) 访问密码: tgi7。
+>exe下载链接 [点击这里](https://github.com/Semoz/AutoClean/releases/download/v1.1/AutoClean_V0.0.1.zip)。
 >安装后打开软件登录即可。
 
->方法2 - (macOS 10.11+/Linux Browser e.g. Chrome)  
+>方法2 - (Windows 7/8/10/macOS 10.11+/Linux Browser e.g. Chrome)  
 >本插件基于Tampermonkey，请先安装 Tampermonkey。  
 >安装完毕后 [点击这里](https://semoz.github.io/AutoClean/AutoClean.user.js) 安装脚本。
 >重新打开浏览器，登录网站即可
 
 ---
+```
+2018-12-31 update v1.1
+开源。
+```
 ```
 2018-05-25 update v1.0.4
 优化网络延迟，修改配置方案。
@@ -47,7 +51,6 @@
 ```
 2017-11-10 update v0.8
 由于插件安装对小白来讲过于复杂，因此单独封装浏览器，发布exe程序，测试可在win7以上系统运行。
-下载地址。链接: https://pan.baidu.com/s/1HtYTRJpFavXSUi00IPU45A 密码: tgi7
 ```
 ```
 2017-11-03 update v0.7
