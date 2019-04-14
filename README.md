@@ -1,10 +1,10 @@
 # 自动清除反作弊弹框插件 - AutoClean
 
-#说明
+说明
 还在为计时系统烦恼么？来~带你飞！
 浙江工业大学网络在线学习平台挂时插件，可稳定运行10000+秒以上
 
-#使用　
+使用　
 >方法1 - (Windows 7/8/10)
 >exe下载链接 [点击这里](https://github.com/Semoz/AutoClean/releases/download/v1.1/AutoClean_V0.0.1.zip)。
 >安装后打开软件登录即可。
