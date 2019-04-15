@@ -662,7 +662,7 @@
                 if(public_config_str != null && public_config_str.length > 5){
                     var public_config = eval('(' + public_config_str + ')');
 
-                    price_list = JSON.stringify(public_config["价格清单"]);
+                    price_list = JSON.stringify(public_config["内容配置"]);
                     price_list = price_list.substring(1, price_list.length - 1)
 
                     default_timeRange = JSON.stringify(public_config["默认计时"]);
